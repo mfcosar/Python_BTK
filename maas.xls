@@ -1,0 +1,90 @@
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1254">
+
+
+
+
+
+
+<style type="text/css">
+    .filter {
+        margin: 0 5px 10px 0;
+        float: right;
+    }
+
+    .filter-space {
+        width: 100%;
+        height: 20px;
+    }
+
+    .filter-text {
+        margin: 7px 5px 10px 0;
+        float: right;
+    }
+
+    .input-IBAN {
+        background-color: transparent;
+        border: 0px solid;
+        color: #000;
+        font-weight: bold;
+        width: 300px;
+    }
+
+    .input-AccountName {
+        background-color: transparent;
+        border: 0px solid;
+        color: #000;
+        font-weight: bold;
+        width: 300px;
+    }
+</style>
+
+
+<DIV id="ctl00_ContentPlaceHolder1_AccountList_AccountLiteral_topcontainer"><div >TL ÖZEL CARİ HESAP</div><DIV id="ctl00_ContentPlaceHolder1_AccountList_AccountLiteral"><div >
+	<div >
+		<div >
+			<div >
+				<div >
+					<div >
+
+					</div><div>
+						<table  cellspacing="1" cellpadding="0" ID="ctl00_ContentPlaceHolder1_AccountList_ctl12" border="0" >
+							<thead>
+								<tr >
+									<th  align="left" scope="col"><A>Hesap No/Şube Adı</A></th><th  align="left" scope="col"><A>Hesap Adı</A></th><th  align="left" scope="col"><A>Hesap Türü</A></th><th  align="center" scope="col"><A>Bakiye</A></th><th  align="right" scope="col"><A>Kullanılabilir Bakiye</A></th>
+								</tr>
+							</thead><tbody>
+								<tr    accountNo="74-1809273-4" currencyCode="TRY">
+									<td align="left" >74-1809273-4/ISPARTA ŞUBESİ<br/>TR22 0020 3000 0180 9273 0000 04</td><td align="left" >TL Cari Hesap</td><td align="left" >CH</td><td align="right" >0.00 TL</td><td align="right" >0.00 TL</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><DIV  ></DIV></DIV><br><br><div >YP KATILIM HESABI</div><DIV id="ctl00_ContentPlaceHolder1_AccountList_AccountLiteral"><div >
+	<div >
+		<div >
+			<div >
+				<div >
+					<div>
+						<table  cellspacing="1" cellpadding="0" ID="ctl00_ContentPlaceHolder1_AccountList_ctl17" border="0" >
+							<thead>
+								<tr >
+									<th  align="left" scope="col"><A>Hesap No/Şube Adı</A></th><th  align="left" scope="col"><A>Hesap Adı</A></th><th  align="left" scope="col"><A>Hesap Türü</A></th><th  align="left" scope="col"><A>Vade Tipi</A></th><th  align="center" scope="col"><A>Bakiye</A></th><th  align="right" scope="col"><A>Vade Tarihi</A></th>
+								</tr>
+							</thead><tbody>
+								<tr    accountNo="74-1809273-2" currencyCode="USD">
+									<td align="left" >74-1809273-2/ISPARTA ŞUBESİ<br/>TR76 0020 3000 0180 9273 0000 02</td><td align="left" >Katılma Hesabı</td><td align="left" >KH</td><td align="left" >1 Ay</td><td align="right" >1,982.92 USD</td><td align="right" >25.06.2015</td>
+								</tr><tr    accountNo="74-1809273-5" currencyCode="EUR">
+									<td align="left" >74-1809273-5/ISPARTA ŞUBESİ<br/>TR92 0020 3000 0180 9273 0000 05</td><td align="left" >Katılma Hesabı</td><td align="left" >KH</td><td align="left" >1 Ay</td><td align="right" >9,762.92 EUR</td><td align="right" >25.06.2015</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div><DIV  ></DIV></DIV><br><br></DIV>
